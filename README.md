@@ -60,11 +60,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=GaneshWakchaure005\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=GaneshWakchaure005\&theme=dark\&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GaneshWakchaure005\&theme=dark\&layout=compact)
 
 
 ---
