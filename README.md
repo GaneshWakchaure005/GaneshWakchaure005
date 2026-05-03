@@ -29,12 +29,14 @@
 
 ### ⚙️ Frameworks & Tools
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat\&logo=tailwind-css\&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat\&logo=redux\&logoColor=white)
 
 ---
 
@@ -58,17 +60,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaneshWakchaure005\&theme=tokyonight\&hide_border=true\&show_icons=true)
+![](https://github-readme-stats.shion.dev/api?username=GaneshWakchaure005\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GaneshWakchaure005\&theme=tokyonight\&hide_border=true)
+![](https://streak-stats.demolab.com/?user=GaneshWakchaure005\&theme=dark\&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshWakchaure005\&layout=compact\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GaneshWakchaure005\&theme=dark\&layout=compact)
+
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ganesh-wakchaure-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ganeshwakchaure005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ganesh-wakchaure-dev)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Ganesh_80100)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ganeshwakchaure801@gmail.com)
 
 ---
